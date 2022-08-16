@@ -1,1 +1,2 @@
-first file in workspace
+second file in the workspace
+third file in the workspace
