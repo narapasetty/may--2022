@@ -1,1 +1,1 @@
-this the strong mind set
+nanda 01
